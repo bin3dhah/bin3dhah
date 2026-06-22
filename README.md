@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Mohammed+Edhah;Full-Stack+Software+Engineer;Laravel+%7C+Vue.js+%7C+TypeScript;Building+Scalable+Digital+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Mohammed+Edhah;Senior+Full-Stack+Developer;Laravel+%7C+Vue.js+%7C+TypeScript;Building+Scalable+Digital+Solutions" />
 
 <h1>👋 Hi, I'm Mohammed Edhah</h1>
 
