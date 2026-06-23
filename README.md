@@ -73,7 +73,7 @@ class MohammedEdhah
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel,Codeigniter,mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
 </p>
 
 ### Frontend
