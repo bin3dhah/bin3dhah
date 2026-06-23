@@ -73,6 +73,7 @@ class MohammedEdhah
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel,Codeigniter,mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
 
 ### Frontend
@@ -91,8 +92,7 @@ class MohammedEdhah
 
 # ⚡ Core Expertise
 
-- Laravel Application Development
-- CodeIgniter
+- Laravel & CodeIgniter Application Development
 - RESTful API Development
 - Inertia.js Architecture
 - Vue.js SPA Development
