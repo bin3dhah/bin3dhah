@@ -1,5 +1,7 @@
 <div align="center">
 
+<img class="_765c1b7a d519166a _3673657f _0ad3a66b _94a17a54" fetchpriority="low" alt="Cover photo" src="https://media.licdn.com/dms/image/v2/D4D16AQFMAr3voJpfLg/profile-displaybackgroundimage-shrink_350_1400/B4DZ7tXbK2KsAU-/0/1782098801575?e=1783555200&amp;v=beta&amp;t=33eJKDnDc4Mw0UIWTfYtL1p8j-24_7znrmomW2p9sq8" data-loaded="true"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Mohammed+Edhah;Senior+Full-Stack+Developer;Laravel+%7C+Vue.js+%7C+TypeScript;Building+Scalable+Digital+Solutions" />
 
 <h1>Hi, I'm Mohammed Edhah 👋</h1>
