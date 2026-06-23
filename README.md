@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Mohammed+Edhah;Senior+Full-Stack+Developer;Laravel+%7C+Vue.js+%7C+TypeScript;Building+Scalable+Digital+Solutions" />
 
-<h1>👋 Hi, I'm Mohammed Edhah</h1>
+<h1>Hi, I'm Mohammed Edhah 👋</h1>
 
 <p>
 Full-Stack Software Engineer passionate about building scalable web applications,
@@ -99,6 +99,12 @@ class MohammedEdhah
 - Database Design & Optimization
 - Authentication & Authorization
 - Payment Gateway Integrations
+- Microservices
+- SOLID Principles
+- Design Patterns
+- Mentoring
+- Clean Architecture
+- RESTful APIs
 - Performance Optimization
 - CI/CD Pipelines
 - Dockerized Deployments
@@ -117,7 +123,7 @@ class MohammedEdhah
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:hello@bin3dhah.com">
+<a href="mailto:bin3dhah@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
