@@ -84,7 +84,7 @@ class MohammedEdhah
 ### Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=bash،git,github,gitlab,docker,linux,nginx,phpstorm,webstorm,vscode,postman,sentry,discord" />
+<img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,docker,linux,nginx,phpstorm,webstorm,vscode,postman,sentry,discord" />
 </p>
 
 ---
