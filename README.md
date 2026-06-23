@@ -72,7 +72,7 @@ class MohammedEdhah
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,dotnet,cs,postgres,mysql,sqlite,redis,supabase" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,dotnet,cs,postgres,mysql,sqlite,redis,supabase,mongodb" />
 </p>
 
 ### Frontend
