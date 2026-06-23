@@ -72,19 +72,19 @@ class MO
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,dotnet,cs,postgres,mysql,sqlite,redis,supabase,mongodb" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,dotnet,cs,postgres,mysql,sqlite,redis,supabase,mongodb&perline=5" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,nuxtjs,pinia,angular,vuetify,js,ts,jquery,html,css,sass,tailwind,bootstrap,figma,vite,webpack,npm,bun" />
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,pinia,angular,vuetify,js,ts,jquery,html,css,sass,tailwind,bootstrap,figma,vite,webpack,npm,bun&perline=5" />
 </p>
 
 ### Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,docker,linux,nginx,phpstorm,webstorm,vscode,postman,sentry,aws,gcp,discord" />
+<img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,docker,linux,nginx,phpstorm,webstorm,vscode,postman,sentry,aws,gcp,discord&perline=5" />
 </p>
 
 ---
