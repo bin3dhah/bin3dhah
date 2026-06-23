@@ -104,7 +104,6 @@ class MohammedEdhah
 - Design Patterns
 - Mentoring
 - Clean Architecture
-- RESTful APIs
 - Performance Optimization
 - CI/CD Pipelines
 - Dockerized Deployments
