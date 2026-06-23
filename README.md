@@ -72,19 +72,19 @@ class MohammedEdhah
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,postgresql,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,dotnet,cs,postgres,mysql,sqlite,redis,supabase" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,angular,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,angular,vuetify,js,ts,jquery,html,css,sass,tailwind,bootstrap,figma" />
 </p>
 
 ### Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=bash،git,github,gitlab,docker,linux,nginx,phpstorm,webstorm,vscode,postman,sentry,discord" />
 </p>
 
 ---
