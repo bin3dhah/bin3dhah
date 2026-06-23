@@ -30,7 +30,7 @@ modern user experiences, and robust backend systems.
 # 🚀 About Me
 
 ```php
-class MohammedEdhah
+class MO
 {
     public string $role = "Full-Stack Software Engineer";
 
