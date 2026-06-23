@@ -72,13 +72,13 @@ class MohammedEdhah
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+<img src="https://skillicons.dev/icons?i=php,laravel,Codeigniter,mysql" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,angular,js,ts,html,css" />
 </p>
 
 ### Tools & DevOps
@@ -92,7 +92,7 @@ class MohammedEdhah
 # ⚡ Core Expertise
 
 - Laravel Application Development
-- CodeIgniter Systems
+- CodeIgniter
 - RESTful API Development
 - Inertia.js Architecture
 - Vue.js SPA Development
@@ -103,95 +103,6 @@ class MohammedEdhah
 - Performance Optimization
 - CI/CD Pipelines
 - Dockerized Deployments
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=bin3dhah&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin3dhah&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-<img
-src="https://streak-stats.demolab.com?user=bin3dhah&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=bin3dhah&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=bin3dhah&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 Enterprise Web Application
-
-Modern Laravel + Vue.js platform designed for scalability.
-
-**Tech Stack**
-
-- Laravel
-- Vue.js
-- Inertia.js
-- MySQL
-
----
-
-## ⚙️ REST API Platform
-
-High-performance API architecture with authentication and integrations.
-
-**Tech Stack**
-
-- Laravel
-- PHP
-- MySQL
-- Docker
-
----
-
-## 📊 Business Management System
-
-Custom solution for workflow automation and business operations.
-
-**Tech Stack**
-
-- CodeIgniter
-- JavaScript
-- MySQL
-
----
-
-# 📚 Currently Exploring
-
-- Advanced Laravel Architecture
-- Microservices
-- Domain Driven Design (DDD)
-- Cloud Deployments
-- AI Integrations
 
 ---
 
