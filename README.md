@@ -78,13 +78,13 @@ class MohammedEdhah
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,nuxtjs,angular,vuetify,js,ts,jquery,html,css,sass,tailwind,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,pinia,angular,vuetify,js,ts,jquery,html,css,sass,tailwind,bootstrap,figma,vite,webpack,npm,bun" />
 </p>
 
 ### Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,docker,linux,nginx,phpstorm,webstorm,vscode,postman,sentry,discord" />
+<img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,docker,linux,nginx,phpstorm,webstorm,vscode,postman,sentry,aws,gcp,discord" />
 </p>
 
 ---
