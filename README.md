@@ -23,6 +23,8 @@ modern user experiences, and robust backend systems.
 </a>
 </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U8Y3224IKN)
+
 </div>
 
 ---
@@ -135,6 +137,4 @@ class MO
 ### 💡 Turning ideas into scalable digital solutions.
 
 <img src="https://komarev.com/ghpvc/?username=bin3dhah&style=for-the-badge"/>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U8Y3224IKN)
 </div>
